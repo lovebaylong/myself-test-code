@@ -11,8 +11,8 @@ public class IsprInterview {
 	}
 
 	public static void main(String[] args) {
-		// IsprInterview oIspr = new IsprInterview();
-		// System.out.println(IsprInterview.iNum2);
+		IsprInterview oIspr = new IsprInterview();
+		System.out.println(IsprInterview.iNum2);
 		System.out.println("abc".getBytes());
 		try {
 			System.out.println("abc".getBytes("GBK"));
