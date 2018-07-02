@@ -17,7 +17,6 @@ public class IsprInterview {
 		try {
 			System.out.println("abc".getBytes("GBK"));
 		} catch (UnsupportedEncodingException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
