@@ -7,6 +7,7 @@
   <packaging>jar</packaging>
   <name>mptest</name>
   <url>http://maven.apache.org</url>
+	
   <properties>
 	<spring-version>4.0.5.RELEASE</spring-version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
